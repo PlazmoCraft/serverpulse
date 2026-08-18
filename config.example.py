@@ -1,9 +1,9 @@
 TOKEN = "ВСТАВЬ_ТОКЕН_БОТА_СЮДА"
 
-GUILD_ID = 1327906226628988948
-CHANNEL_ID = 1372683848252526643
+GUILD_ID = id
+CHANNEL_ID = id
 
-SERVER_ADDRESS = "play.plazmocraft.ru"
+SERVER_ADDRESS = "localhost:25565"
 
 # Интервал обновления в минутах
 UPDATE_INTERVAL_MINUTES = 5
