@@ -20,7 +20,8 @@ pip install discord.py aiohttp Pillow
 
 1. Создайте бота на [Discord Developer Portal](https://discord.com/developers/applications) и скопируйте токен.
 2. Пригласите бота на сервер с правом **Send Messages** в нужном канале.
-3. Откройте `config.py` и заполните:
+3. Скопируйте `config.example.py` и дайте название `config.py`.
+4. Откройте `config.py` и заполните:
 
 ```python
 TOKEN = "токен_бота"
