@@ -14,10 +14,21 @@ Discord-бот, который автоматически выводит в ук
 ## Требования
 
 - Python 3.10+
-- Установленные библиотеки:
+- Зависимости из `requirements.txt`
+
+## Установка
+
+1. Склонируйте репозиторий:
 
 ```bash
-pip install discord.py aiohttp Pillow
+git clone https://github.com/PlazmoCraft/serverpulse.git
+cd serverpulse
+```
+
+2. Установите зависимости:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Настройка
